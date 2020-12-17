@@ -1,0 +1,12 @@
+{
+  "name": "RN_Notes",
+  "displayName": "RN_Notes",
+  "expo": {
+    "name": "RN_Notes",
+    "slug": "RN_Notes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
